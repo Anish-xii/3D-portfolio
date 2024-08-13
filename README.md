@@ -2,13 +2,14 @@
 
 Welcome to my 3D portfolio! This README will guide you through the features of my interactive portfolio website and provide an overview of the technologies used.
 
+## Desktop View
 <img width="1440" alt="Screenshot 2024-08-13 at 14 41 50" src="https://github.com/user-attachments/assets/3e9a5e84-1d8f-44c1-b6fb-b21f588803e4">
 
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="![gg](https://github.com/user-attachments/assets/bc10d178-5943-4bfe-95d0-4e812cc3da89)" alt="Screenshot 1" style="width: 30%; height: auto;"/>
-  <img src="path/to/screenshot2.png" alt="Screenshot 2" style="width: 30%; height: auto;"/>
-  <img src="path/to/screenshot3.png" alt="Screenshot 3" style="width: 30%; height: auto;"/>
+## Mobile View
+<div style="display: flex; justify-content: center; gap: 4rem;">
+  <img src="untitled folder/gg.jpg" style="width: 30%; height: auto;"/>
+  <img src="untitled folder/bb.jpg" alt="Screenshot 2" style="width: 30%; height: auto;"/>
+  <img src="untitled folder/ll.jpg" alt="Screenshot 3" style="width: 30%; height: auto;"/>
 </div>
 ## Overview
 
